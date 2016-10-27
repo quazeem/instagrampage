@@ -1,0 +1,127 @@
+body {
+		font-family: Arial, Sans-serif;
+		background-color: #FFFFCC;
+
+}
+
+.hou {
+    float: left;
+    width: 50px;
+    height: 40px;
+    border:1px thin;
+    color: white;
+    }
+
+.ins {
+        width: 150px;
+        height: 40px;
+        margin-left: 5px;
+        margin-right: 5px;
+        border:1px thin;
+        padding-right: 490px;
+        padding-left: 490px;
+        color: white;
+        background-color: white;
+     }
+
+.ins3 {
+		float: right;
+        width: 50px;
+        height: 40px;
+        border:1px thin; 
+        color: white;
+        background-color: white;
+        
+        /*padding-right: 80px;
+        padding-left: 3px;*/
+     }
+.inse{
+	width: 100px;
+	height: 100px;
+	margin-right: 70px;
+	border-radius: 70px;
+
+}
+section{
+       float: right;
+       width: 73%;
+       margin-top: 100px;
+      /* padding-right: 70px;*/
+}
+aside {
+		width:23%;
+		height:500px;	
+		margin-top:100px;
+		float: left;
+		padding: 10px;
+		background-color: white;
+		border-color: grey;
+}
+
+section div img{
+				width: 162px;
+				height: 130px;
+				display: inline;
+				border: 3px solid ;
+				margin: 5px;
+				color: white;
+}
+img{
+    transition: all .3s ease-in-out;
+    
+}
+
+aside button{
+			background-color: #33CC33;
+			height: 40px;
+			width: 80px;
+			border-style: 50px;
+			border-radius: 13px;
+			color: white;
+
+
+}
+aside div{
+		float: right;
+		padding: 5px;
+		border: 10px;
+
+}	
+.ichaity{
+	text-align: center;
+	color:red;
+}
+.ffg{
+	border:1px solid;
+	border-color: grey;
+	padding: 15px;
+	width: 90px;
+	height: 50px;
+	text-align: center;
+	
+	background-color: white;
+
+}
+.lat{
+	border:1px solid;
+	border-color: grey;
+	padding: 15px;
+	width: 90px;
+	height: 50px;
+	text-align: center;
+	
+	background-color: white;
+}
+.klm{
+	
+	border-color: grey;
+	padding: 25px;
+	margin: -10px;
+	width: 180px;
+    float: right;
+	height: 10px;
+	
+	background-color: white;
+	
+	
+}
